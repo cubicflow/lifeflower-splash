@@ -1,0 +1,14 @@
+online_ordering_enabled: false
+social_media:
+  facebook_url:
+  twitter_url:
+  instagram_url:
+  yelp_url:
+location:
+  phone_number:
+  fax:
+  address_line_1:
+  address_line_2:
+  email:
+send_contact_to:
+ordering_disabled_notice:
