@@ -1,7 +1,7 @@
 ---
 permalink: /
 layout: index
-title: Homepage
+title: Coming Soon
 show_call_to_action: false
 ---
 
@@ -12,12 +12,13 @@ show_call_to_action: false
 
   <div class="homepage-cover__content">
 
-    <img class="homepage-cover__content__masthead" src="/assets/img/brianhhall--logo.svg">
+    <div class="homepage-cover__content__label"></div>
 
-    <!-- <span class="homepage-cover__content__caption editable">Established in December 2016, DCHUX is the first neuromusculoskeletal focused ambulatory surgery center serving Washington, D.C. Metropolitan.  DCHUX aims to provide services including Hand&nbsp;Surgery, Neurosurgery, Peripheral&nbsp;Nerve&nbsp;Surgery, Orthopedic&nbsp;Surgery, Spine&nbsp;Surgery and&nbsp;Pain&nbsp;Management.</span> -->
+    <img class="homepage-cover__content__masthead" src="/assets/img/lifeflower-mark.svg">
+
+    <div class="homepage-cover__content__comingsoon editable">Coming soon</div>
 
 
-    <a class="homepage-cover__content__comingsoon editable" href="mailto:brianhhall@me.com">Get in touch</a>
 
   </div>
 

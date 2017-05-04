@@ -63,6 +63,26 @@
         }
       }
 
+      &__label {
+        background-color: $white;
+        position: absolute;
+        bottom: 35px;
+        right: 0px;
+        height: 120px;
+        width: 210px;
+
+        @include breakpoint(medium) {
+          width: 230px;
+          height: 130px;
+          bottom: 30px;
+        }
+
+        @include breakpoint(large) {
+          width: 245px;
+        }
+
+      }
+
       &__masthead {
         width: 150px;
         margin-bottom: 20px;
